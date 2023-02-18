@@ -34,7 +34,8 @@ public enum Screen {
   ALL_USERS("views/Profile/AllUsers.fxml"),
   LANDING_PAGE_CREDITS("views/Navigation/LandingPageCredits.fxml"),
   TEMPLATE("views/ServiceRequest/Template.fxml"),
-  EXIT_CONFIRMATION("views/Navigation/ExitConfirmation.fxml");
+  EXIT_CONFIRMATION("views/Navigation/ExitConfirmation.fxml"),
+  FACILITIES_MAINTENANCE("views/ServiceRequest/FacilitiesMaintenance.fxml");
 
   private final String filename;
 
