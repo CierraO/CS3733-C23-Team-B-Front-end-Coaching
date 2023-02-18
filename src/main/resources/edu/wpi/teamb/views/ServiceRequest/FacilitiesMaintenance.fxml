@@ -32,7 +32,7 @@
          <children>
             <HBox prefHeight="67.0" prefWidth="738.0">
                <children>
-                  <Label minHeight="45.0" minWidth="294.0" text="Request Information">
+                  <Label minHeight="45.0" minWidth="294.0" text="Facilities Maintenance Request">
                      <font>
                         <Font name="System Bold" size="30.0" />
                      </font>
@@ -96,7 +96,7 @@
             </HBox>
             <HBox prefHeight="0.0" prefWidth="678.0">
                <children>
-                  <Label text="Maintanence Type">
+                  <Label text="Maintenance Type">
                      <font>
                         <Font size="16.0" />
                      </font>
